@@ -1,0 +1,98 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-3ecdc9640efe42acf30e.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.e2cbd77154c547d29506.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-823ae8103e36ae8a7f9f.js
+  Cache-Control: public, max-age=31536000, immutable
+/1bfc9850-0914cf43485941940187.js
+  Cache-Control: public, max-age=31536000, immutable
+/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-438b246435a6e18ab864.js
+  Cache-Control: public, max-age=31536000, immutable
+/e21e9ecfc099254b06ab7617f17d97212f9248d1-24237e64ff82cb2d3b45.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-listing-jsx-04754475c1bfa492f33d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-jsx-46af698c570947eaf886.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-41748a77a849dd2d0aff.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-now-jsx-6ad9da1e195c34cbde5a.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-584ed3ef192f9c771b22.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-0204bf4e920e001ced67.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-00adde7b7a089eb4fbb8.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/ciddy/offline-plugin-app-shell-fallback/
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/component---cache-caches-gatsby-plugin-offline-app-shell-js-3ecdc9640efe42acf30e.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </ciddy/1bfc9850-0914cf43485941940187.js>; rel=preload; as=script
+  Link: </ciddy/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-438b246435a6e18ab864.js>; rel=preload; as=script
+  Link: </ciddy/e21e9ecfc099254b06ab7617f17d97212f9248d1-24237e64ff82cb2d3b45.js>; rel=preload; as=script
+  Link: </ciddy/component---src-templates-listing-jsx-04754475c1bfa492f33d.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/post/test-222
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </ciddy/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-438b246435a6e18ab864.js>; rel=preload; as=script
+  Link: </ciddy/e21e9ecfc099254b06ab7617f17d97212f9248d1-24237e64ff82cb2d3b45.js>; rel=preload; as=script
+  Link: </ciddy/component---src-templates-post-jsx-46af698c570947eaf886.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/post/test-222/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/post/test-3334
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </ciddy/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-438b246435a6e18ab864.js>; rel=preload; as=script
+  Link: </ciddy/e21e9ecfc099254b06ab7617f17d97212f9248d1-24237e64ff82cb2d3b45.js>; rel=preload; as=script
+  Link: </ciddy/component---src-templates-post-jsx-46af698c570947eaf886.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/post/test-3334/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/404/
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/component---src-pages-404-jsx-41748a77a849dd2d0aff.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/now/
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </ciddy/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-438b246435a6e18ab864.js>; rel=preload; as=script
+  Link: </ciddy/component---src-pages-now-jsx-6ad9da1e195c34cbde5a.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/now/page-data.json>; rel=preload; as=fetch; crossorigin
+/ciddy/404.html
+  Link: </ciddy/webpack-runtime-584ed3ef192f9c771b22.js>; rel=preload; as=script
+  Link: </ciddy/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </ciddy/app-00adde7b7a089eb4fbb8.js>; rel=preload; as=script
+  Link: </ciddy/component---src-pages-404-jsx-41748a77a849dd2d0aff.js>; rel=preload; as=script
+  Link: </ciddy/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </ciddy/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
